@@ -1,5 +1,5 @@
 # US-Emissions-Using-DataBricks
-![image alt]()
+![image alt](https://github.com/iammigjoe/US-Emissions-Using-DataBricks/blob/main/DataBricks_dashboard.png?raw=true)
 
 US Emissions Analysis Dashboard (Databricks)
 Project Overview
